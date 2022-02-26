@@ -1,4 +1,4 @@
-import Utils        from './../../services/Utils.js'
+//import Utils        from './../../services/Utils.js'
 
 let getPost = async (id) => {
     const options = {
@@ -36,4 +36,4 @@ let PostShow = {
     }
 }
 
-export default PostShow;
+//export default PostShow;
