@@ -25,4 +25,6 @@ $RECYCLE.BIN/
 node_modules
 dist
 .cache
-package-lock.json.DS_Store
+package-lock.json
+.DS_Store
+
